@@ -1,0 +1,8 @@
+<%
+    // Configuração comum: codificação dos formulários e pasta dos arquivos JSON
+    request.setCharacterEncoding("UTF-8");
+    String pasta = application.getInitParameter("pastaDados");
+    if (pasta == null || pasta.trim().isEmpty()) {
+        pasta = application.getRealPath("/dados");
+    }
+%>

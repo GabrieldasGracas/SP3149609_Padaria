@@ -1,0 +1,5 @@
+[
+  {"id": 1, "nome": "Maria Souza", "telefone": "11 91234-5678", "email": "maria.souza@exemplo.com", "endereco": "Rua das Flores, 123"},
+  {"id": 2, "nome": "João Pereira", "telefone": "11 98765-4321", "email": "", "endereco": "Av. Paulista, 1000, ap. 52"},
+  {"id": 3, "nome": "Ana Lima", "telefone": "11 3456-7890", "email": "ana.lima@exemplo.com", "endereco": "Rua do Trigo, 45"}
+]

@@ -1,0 +1,7 @@
+[
+  {"id": 1, "nome": "Pão francês", "categoria": "Pão", "preco": 0.9, "quantidade": 200},
+  {"id": 2, "nome": "Pão de queijo", "categoria": "Salgado", "preco": 4.5, "quantidade": 80},
+  {"id": 3, "nome": "Bolo de chocolate (fatia)", "categoria": "Bolo", "preco": 8.0, "quantidade": 24},
+  {"id": 4, "nome": "Café coado", "categoria": "Bebida", "preco": 5.0, "quantidade": 60},
+  {"id": 5, "nome": "Brigadeiro", "categoria": "Doce", "preco": 3.5, "quantidade": 40}
+]

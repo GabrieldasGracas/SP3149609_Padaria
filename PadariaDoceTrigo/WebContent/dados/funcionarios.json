@@ -1,0 +1,5 @@
+[
+  {"id": 1, "nome": "Carlos Almeida", "cargo": "Padeiro", "telefone": "11 97777-1111", "salario": 2400.0},
+  {"id": 2, "nome": "Fernanda Costa", "cargo": "Atendente", "telefone": "11 96666-2222", "salario": 1750.0},
+  {"id": 3, "nome": "Rita Santos", "cargo": "Gerente", "telefone": "11 95555-3333", "salario": 3600.0}
+]

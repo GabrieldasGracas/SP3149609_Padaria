@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <display-name>Padaria Doce Trigo</display-name>
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!--
+      Opcional: pasta onde ficam os arquivos JSON.
+      Se não for definida, usa a pasta "dados" dentro da aplicação publicada no Tomcat.
+    <context-param>
+        <param-name>pastaDados</param-name>
+        <param-value>C:/projetos/PadariaDoceTrigo/WebContent/dados</param-value>
+    </context-param>
+    -->
+
+    <error-page>
+        <error-code>404</error-code>
+        <location>/erro.jsp</location>
+    </error-page>
+</web-app>
